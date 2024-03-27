@@ -1,12 +1,13 @@
 # CalculadoraCity
 ## Sobre o Projeto
-Este projeto consiste no desenvolvimento de um site que oferece uma coleção de calculadoras para diferentes situações do dia a dia. O objetivo é facilitar a vida dos usuários, fornecendo ferramentas práticas para cálculos específicos, como a quantidade de tinta necessária para pintar uma parede, baseando-se nas dimensões (altura e comprimento) fornecidas pelo usuário.
+Este projeto consiste no desenvolvimento de um site que oferece uma coleção de calculadoras para diferentes situações do dia a dia.
 ## Visualização do Design
 O design visual do site foi cuidadosamente elaborado no Figma, permitindo uma prévia detalhada de como o site se apresenta antes mesmo da sua implementação. O layout busca ser intuitivo e amigável, garantindo uma experiência agradável ao usuário. [figma](https://www.figma.com/file/wXzu1vaJ1gEPQY1iRgwFu0/Untitled?type=design&node-id=0%3A1&mode=design&t=uHc9iqBuzveBwy6X-1)
 ## Funcionalidades
-- **Calculadora de Tinta:** Calcula a quantidade de tinta necessária para pintar uma parede, com base nas dimensões fornecidas (altura x comprimento).- **Outras Calculadoras:** (Este espaço pode ser utilizado para descrever outras calculadoras que podem ser incluídas no futuro, como cálculos de financiamentos, IMC, conversões de unidades, etc.)
+- **Calculadora de Tinta:** Calcula a quantidade de tinta necessária para pintar uma parede, com base nas dimensões fornecidas (altura x comprimento).
+- **Outras Calculadoras:** 
 ## Tecnologias Utilizadas
-- HTML- CSS- JavaScript- Frameworks e bibliotecas específicas (se aplicável)
+- HTML- CSS- JavaScript
 ## Como Utilizar
 1. Acesse o site através do link: [URL do site] (adicione o link real aqui)
 2. Escolha a calculadora desejada na página inicial.
